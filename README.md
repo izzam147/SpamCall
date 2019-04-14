@@ -7,8 +7,8 @@ UPDATE 09-April-2019
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
-<li>$ git clone https://github.com/Aditya021/SpamCall
-<li>$ cd SpamSms
+<li>$ git clone https://github.com/Izzam147/SpamCall
+<li>$ cd SpamCall
 <li>$ php SpamCall.php
 <li> Masukan No Target ===> 
 <li> Mode Banyak (y/n) ===> UNTUK Spam Lebih Dari 1
